@@ -1,6 +1,7 @@
 # A sample script.R for Github testing
 # Something to add, edit and push around.
 # I just added this coment.
+# Now I'm adding a comment on Github to push to my computer.
 
 # Mortgage calculator
 # Based on:
@@ -27,4 +28,4 @@ source("http://faculty.ucr.edu/~tgirke/Documents/R_BioCond/My_R_Scripts/mortgage
 	mp <- monthPay
 	mpA <- mp+pt+hi
 	cost <- (sP*0.05)+(P*0.0058)+(P*0.03)
-	Tc <- (mp*L*12)+cost
+	Tc <- (mp*L* 12)+cost
