@@ -1,5 +1,6 @@
 # A sample script.R for Github testing
 # Something to add, edit and push around.
+# I just added this coment.
 
 # Mortgage calculator
 # Based on:
