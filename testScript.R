@@ -29,3 +29,5 @@ source("http://faculty.ucr.edu/~tgirke/Documents/R_BioCond/My_R_Scripts/mortgage
 	mpA <- mp+pt+hi
 	cost <- (sP*0.05)+(P*0.0058)+(P*0.03)
 	Tc <- (mp*L* 12)+cost
+ # I had to log in to my github account, so I imagine that will tell you WHO is writing this mysterious comment???
+ # Here's a hint... XOXO
